@@ -1,0 +1,15 @@
+G:\c#\complete calculator\bin\Debug\WindowsApplication.exe
+G:\c#\complete calculator\bin\Debug\WindowsApplication.pdb
+G:\c#\complete calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\c#\complete calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+G:\c#\complete calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\c#\complete calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\c#\complete calculator\obj\x86\Debug\WindowsApplication.exe
+G:\c#\complete calculator\obj\x86\Debug\WindowsApplication.pdb
+E:\BlogSourceCode\C# application\calculator\obj\x86\Debug\WindowsApplication.exe
+E:\BlogSourceCode\C# application\calculator\obj\x86\Debug\WindowsApplication.pdb
+E:\BlogSourceCode\C# application\calculator\bin\Debug\WindowsApplication.exe
+E:\BlogSourceCode\C# application\calculator\bin\Debug\WindowsApplication.pdb
+E:\BlogSourceCode\C# application\calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\BlogSourceCode\C# application\calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+E:\BlogSourceCode\C# application\calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache

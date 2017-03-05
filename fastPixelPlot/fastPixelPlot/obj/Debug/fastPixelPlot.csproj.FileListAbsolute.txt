@@ -1,0 +1,7 @@
+E:\BlogSourceCode\C# application\fastPixelPlot\fastPixelPlot\bin\Debug\fastPixelPlot.exe.config
+E:\BlogSourceCode\C# application\fastPixelPlot\fastPixelPlot\bin\Debug\fastPixelPlot.exe
+E:\BlogSourceCode\C# application\fastPixelPlot\fastPixelPlot\bin\Debug\fastPixelPlot.pdb
+E:\BlogSourceCode\C# application\fastPixelPlot\fastPixelPlot\obj\Debug\fastPixelPlot.Properties.Resources.resources
+E:\BlogSourceCode\C# application\fastPixelPlot\fastPixelPlot\obj\Debug\fastPixelPlot.csproj.GenerateResource.Cache
+E:\BlogSourceCode\C# application\fastPixelPlot\fastPixelPlot\obj\Debug\fastPixelPlot.exe
+E:\BlogSourceCode\C# application\fastPixelPlot\fastPixelPlot\obj\Debug\fastPixelPlot.pdb

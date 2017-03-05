@@ -1,0 +1,7 @@
+E:\BlogSourceCode\C# application\drawingbasicshapes\drawingbasicshapes\bin\Debug\drawingbasicshapes.exe.config
+E:\BlogSourceCode\C# application\drawingbasicshapes\drawingbasicshapes\bin\Debug\drawingbasicshapes.exe
+E:\BlogSourceCode\C# application\drawingbasicshapes\drawingbasicshapes\bin\Debug\drawingbasicshapes.pdb
+E:\BlogSourceCode\C# application\drawingbasicshapes\drawingbasicshapes\obj\Debug\drawingbasicshapes.Properties.Resources.resources
+E:\BlogSourceCode\C# application\drawingbasicshapes\drawingbasicshapes\obj\Debug\drawingbasicshapes.csproj.GenerateResource.Cache
+E:\BlogSourceCode\C# application\drawingbasicshapes\drawingbasicshapes\obj\Debug\drawingbasicshapes.exe
+E:\BlogSourceCode\C# application\drawingbasicshapes\drawingbasicshapes\obj\Debug\drawingbasicshapes.pdb

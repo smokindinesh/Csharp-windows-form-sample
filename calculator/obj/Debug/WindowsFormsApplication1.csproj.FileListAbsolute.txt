@@ -1,0 +1,8 @@
+H:\work\c#\calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+H:\work\c#\calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmcalculator.resources
+H:\work\c#\calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\claculator.Properties.Resources.resources
+H:\work\c#\calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+H:\work\c#\calculator\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\calculator.exe
+H:\work\c#\calculator\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\calculator.pdb
+H:\work\c#\calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\calculator.exe
+H:\work\c#\calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\calculator.pdb

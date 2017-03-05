@@ -1,0 +1,7 @@
+E:\BlogSourceCode\C# application\matchingGame\matchingGame\bin\Debug\matchingGame.exe.config
+E:\BlogSourceCode\C# application\matchingGame\matchingGame\bin\Debug\matchingGame.exe
+E:\BlogSourceCode\C# application\matchingGame\matchingGame\bin\Debug\matchingGame.pdb
+E:\BlogSourceCode\C# application\matchingGame\matchingGame\obj\Debug\matchingGame.Properties.Resources.resources
+E:\BlogSourceCode\C# application\matchingGame\matchingGame\obj\Debug\matchingGame.csproj.GenerateResource.Cache
+E:\BlogSourceCode\C# application\matchingGame\matchingGame\obj\Debug\matchingGame.exe
+E:\BlogSourceCode\C# application\matchingGame\matchingGame\obj\Debug\matchingGame.pdb

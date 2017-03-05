@@ -1,0 +1,8 @@
+E:\BlogSourceCode\C# application\mathquiz\mathquiz\bin\Debug\mathquiz.exe.config
+E:\BlogSourceCode\C# application\mathquiz\mathquiz\bin\Debug\mathquiz.exe
+E:\BlogSourceCode\C# application\mathquiz\mathquiz\bin\Debug\mathquiz.pdb
+E:\BlogSourceCode\C# application\mathquiz\mathquiz\obj\Debug\mathquiz.csprojResolveAssemblyReference.cache
+E:\BlogSourceCode\C# application\mathquiz\mathquiz\obj\Debug\mathquiz.Properties.Resources.resources
+E:\BlogSourceCode\C# application\mathquiz\mathquiz\obj\Debug\mathquiz.csproj.GenerateResource.Cache
+E:\BlogSourceCode\C# application\mathquiz\mathquiz\obj\Debug\mathquiz.exe
+E:\BlogSourceCode\C# application\mathquiz\mathquiz\obj\Debug\mathquiz.pdb
